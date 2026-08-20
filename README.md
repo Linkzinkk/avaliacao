@@ -40,4 +40,4 @@ Este projeto utiliza uma licença de software definida no arquivo LICENSE.
 
 ## Autor
 
-Nome do aluno
+Lucas Mello

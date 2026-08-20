@@ -1,0 +1,7 @@
+Cadastro de Produtos
+
+Código 666
+Descrição : laranja de umbigo
+Categoria : fruta
+Valor : R$2,00
+Estoque : 6000000
